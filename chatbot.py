@@ -6,6 +6,7 @@ from langchain.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 
+# you will need to get your own api key, by going to openai ai keys and generate a new api key. Then you can replace it with the one that's here
 OPENAI_API_KEY = "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"
 
 # Upload PDF file
