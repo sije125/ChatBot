@@ -73,3 +73,4 @@ Improve response accuracy with fine-tuned models.
 Add support for multiple file formats (e.g., DOCX, TXT).
 
 Implement persistent storage for previously uploaded documents.
+# you will need to get your own api key, by going to openai ai keys and generate a new api key. Then you can replace it with the one that's there
