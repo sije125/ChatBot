@@ -10,7 +10,7 @@ from langchain_community.chat_models import ChatOpenAI
 OPENAI_API_KEY = "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"
 
 # Upload PDF file
-st.header("My first chatbot")
+st.header("AI chatbot")
 
 with st.sidebar:
     st.title("Your Documents")
