@@ -28,7 +28,7 @@ Usage
 
 Run the Streamlit App
 
-streamlit run app.py
+streamlit run chatbot.py
 
 Upload a PDF File
 
