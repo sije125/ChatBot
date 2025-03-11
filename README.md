@@ -58,7 +58,9 @@ Replace OPENAI_API_KEY with your OpenAI API key in the code:
 
 OPENAI_API_KEY = "your-api-key-here"
 
-Notes
+# Notes
+you will need to be in a virtual environment.
+you can do this by typing: venv\Scripts\activate into the terminal
 
 The chatbot currently supports text-based PDFs only.
 
